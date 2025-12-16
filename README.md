@@ -10,19 +10,18 @@ Humanoid Character Animation Lip Sync
 - Having Sad Animation
 - Having Smile Animation
 - Lip Sync With Audio
+- Email Validation Setup
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Unity + c#
-- Use Mixamo For Animation
-- Use ReadyPlayerMe For Finding Best Custom Humanoid Player With Face Blend Keys
-
+- Used Mixamo For Animation
+- Used ReadyPlayerMe For Finding Best Custom Humanoid Player With Face Blend Keys
+- Blender For Face Shape Key
 ---
 
 ## 📦 Installation
 
 Easy To Install And Can Check Through Any device
-Api Use : 22
-Target Api : Automatically Hihgest
